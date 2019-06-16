@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Cláudia Cruz Machado"
-  avatar           : "images/_MG_7494.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://i.ibb.co/ZK28xzp/MG-7494.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Eu faço algumas coisas por aí."
   location         : "Belo Horizonte"
   email            : claudiacruzmachado@gmail.com
