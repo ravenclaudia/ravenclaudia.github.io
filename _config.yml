@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "Saindo do Baralho"
 title_separator          : "-"
 name                     : "Claudia Cruz Machado"
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cláudia Cruz Machado"
+  name             : "Claudia Cruz Machado"
   avatar           : "https://i.ibb.co/ZK28xzp/MG-7494.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Eu faço algumas coisas por aí."
   location         : "Belo Horizonte"
