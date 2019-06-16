@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Cláudia Cruz Machado"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Eu faço algumas coisas por aí.
-  location         : "Belo Horizonte
+  bio              : "Eu faço algumas coisas por aí."
+  location         : "Belo Horizonte"
   email            : claudiacruzmachado@gmail.com
   links:
     - label: "Email"
