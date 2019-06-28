@@ -1,7 +1,11 @@
 ---
 published: true
 tags:
-  - assex - assexual - assexualidade - ace - introdução
+  - assex
+  - assexual
+  - assexualidade
+  - ace
+  - introdução
 title: O que é Assexualidade?
 ---
 **Assexualidade** é uma orientação sexual definida pela **falta de atração sexual**.  Pessoas assexuais também são chamadas de **“aces”**. Assexualidade **não é** celibato, nem abstinência, nem puritanismo, nem ser anti-sexo, nem aversão sexual, nem disfunção sexual, nem nunca fazer sexo, nem falta de libido, nem medo de intimidade, nem inabilidade em achar parceiros sexuais. Algumas pessoas assexuais fazem sexo, e nem todas as pessoas em abstinência sexual são assexuais. 
