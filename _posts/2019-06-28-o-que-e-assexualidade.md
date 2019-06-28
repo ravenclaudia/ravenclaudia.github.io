@@ -9,7 +9,7 @@ tags:
 
 O **espectro assexual** se refere a pessoas que não sentem atração sexual, ou a sentem de forma condicional, rara ou infrequente. Dentro do espectro, é possível encontrar as seguintes identidades:
 
-**Assexuais estritos**: pessoas que **nunca** sentem atração sexual
+**Assexuais estritos**: pessoas que **nunca** sentem atração sexual.
 
 **Demissexuais:** sentem atração sexual **após a formação de um vínculo emocional**. Não é “só vou fazer sexo com quem eu gosto”. É: a atração sexual só passa a existir DEPOIS que um vínculo emocional é estabelecido. 
 
