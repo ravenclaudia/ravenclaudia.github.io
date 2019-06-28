@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 **Assexualidade** é uma orientação sexual definida pela **falta de atração sexual**.  Pessoas assexuais também são chamadas de **“aces”**. Assexualidade **não é** celibato, nem abstinência, nem puritanismo, nem ser anti-sexo, nem aversão sexual, nem disfunção sexual, nem nunca fazer sexo, nem falta de libido, nem medo de intimidade, nem inabilidade em achar parceiros sexuais. Algumas pessoas assexuais fazem sexo, e nem todas as pessoas em abstinência sexual são assexuais. 
 
@@ -29,4 +29,3 @@ As **cores da bandeira assexual** possuem os seguintes significados:
 ![bandeira assexual. faixas horizontais de mesma largura nas seguintes cores: preto, cinza, branco e roxo.](https://i.ibb.co/zfh24wb/bandeiraace.png)
 
 É importante frisar: uma atitude ou comportamento não faz uma pessoa “virar hétero/gay/assexual”, pois orientação é uma identidade que existe separada do comportamento. As vezes é possível encontrar postagens na internet similares a  “nossa, não faço sexo há seis meses, estou muito assexual”. Não é assim que funciona. Até porque **pessoas assexuais podem fazer sexo e continuarão assexuais**, pois continuarão preenchendo o requisito da assexualidade, que é não sentir atração sexual, ou sentir atração condicional, rara, ou infrequente. Além disso, pessoas assexuais também podem se sentir excitadas diante de estímulos sexuais.
-
