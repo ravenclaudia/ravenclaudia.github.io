@@ -15,7 +15,7 @@ O **espectro assexual** se refere a pessoas que não sentem atração sexual, ou
 
 Pessoas fora do espectro assexual são conhecidas como **allossexuais/alosexuais** - allo vem do grego e significa “outro”, portanto, allossexual significa sentir atração sexual direcionada a outras pessoas ou gêneros.
 
-Ser assexual **não é** não sentir nenhuma atração. Existem > vários tipos de atração que pessoas assexuais, assim como pessoas não-assexuais, podem ou não sentir. Pessoas assexuais podem sentir, por exemplo, atração romântica, e dessa forma se identificarem como homorromânticas, birromânticas, panrromânticas, etc. Há também pessoas arromânticas, que não sentem atração romântica.
+Ser assexual **não é** não sentir nenhuma atração. Existem vários tipos de atração que pessoas assexuais, assim como pessoas não-assexuais, podem ou não sentir. Pessoas assexuais podem sentir, por exemplo, atração romântica, e dessa forma se identificarem como homorromânticas, birromânticas, panrromânticas, etc. Há também pessoas arromânticas, que não sentem atração romântica.
 
 Há um grande perigo na generalização do que pessoas assexuais fazem ou não fazem. **Orientação NÃO É comportamento**, é identidade, é inerente à pessoa independente do que ela faz ou não faz, independente de com quem ela se relaciona. 
 
