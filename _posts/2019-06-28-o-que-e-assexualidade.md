@@ -5,17 +5,17 @@ published: false
 
 O **espectro assexual** se refere a pessoas que não sentem atração sexual, ou a sentem de forma condicional, rara ou infrequente. Dentro do espectro, é possível encontrar as seguintes identidades:
 
-Assexuais estritos: pessoas que nunca sentem atração sexual
+**Assexuais estritos**: pessoas que **nunca** sentem atração sexual
 
-Demissexuais: sentem atração sexual após a formação de um vínculo emocional. Não é “só vou fazer sexo com quem eu gosto”. É: a atração sexual só passa a existir DEPOIS que um vínculo emocional é estabelecido. 
+**Demissexuais:** sentem atração sexual **após a formação de um vínculo emocional**. Não é “só vou fazer sexo com quem eu gosto”. É: a atração sexual só passa a existir DEPOIS que um vínculo emocional é estabelecido. 
 
-Assexuais cinza: “A área cinza contempla as pessoas que não são estritamente assexuais, mas também não são alossexuais. Quem está na área cinza também pode se considerar assexual e também pode sofrer afobia (o preconceito contra assexuais). pessoas que sentem atração sexual sob condições muito específicas, ou que raramente a sentem”.  (fonte: sobreocinza.wordpress.com) 
+Assexuais cinza, ou gray-assexuais: “A área cinza contempla as pessoas que não são estritamente assexuais, mas também não são alossexuais. Quem está na área cinza também pode se considerar assexual e também pode sofrer afobia (o preconceito contra assexuais). pessoas que sentem atração sexual sob **condições muito específicas**, ou que **raramente** a sentem”.  (Leia mais em: [sobreocinza.wordpress.com](https://sobreocinza.wordpress.com/2015/10/20/o-que-e-area-cinza/)) 
 
-Pessoas fora do espectro assexual são conhecidas como allossexuais/alosexuais - allo vem do grego e significa “outro”, portanto, allossexual significa sentir atração sexual direcionada a outras pessoas ou gêneros.
+Pessoas fora do espectro assexual são conhecidas como **allossexuais/alosexuais** - allo vem do grego e significa “outro”, portanto, allossexual significa sentir atração sexual direcionada a outras pessoas ou gêneros.
 
-Ser assexual não é não sentir nenhuma atração. Existem vários tipos de atração que pessoas assexuais, assim como pessoas não-assexuais, podem ou não sentir. Pessoas assexuais podem sentir, por exemplo, atração romântica, e dessa forma se identificarem como homorromânticas, birromânticas, panrromânticas, etc. Há também pessoas arromânticas, que não sentem atração romântica.
+Ser assexual **não é** não sentir nenhuma atração. Existem > vários tipos de atração que pessoas assexuais, assim como pessoas não-assexuais, podem ou não sentir. Pessoas assexuais podem sentir, por exemplo, atração romântica, e dessa forma se identificarem como homorromânticas, birromânticas, panrromânticas, etc. Há também pessoas arromânticas, que não sentem atração romântica.
 
-Há um grande perigo na generalização do que pessoas assexuais fazem ou não fazem. Orientação NÃO É comportamento, é identidade, é inerente à pessoa independente do que ela faz ou não faz, independente de com quem ela se relaciona. 
+Há um grande perigo na generalização do que pessoas assexuais fazem ou não fazem. **Orientação NÃO É comportamento**, é identidade, é inerente à pessoa independente do que ela faz ou não faz, independente de com quem ela se relaciona. 
 
 É importante frisar: uma atitude ou comportamento não faz uma pessoa “virar hétero/gay/assexual”, pois orientação é uma identidade que existe separada do comportamento. As vezes é possível encontrar postagens na internet similares a  “nossa, não faço sexo há seis meses, estou muito assexual”. Não é assim que funciona. Até porque pessoas assexuais podem fazer sexo e continuarão assexuais, pois continuarão preenchendo o requisito da assexualidade, que é não sentir atração sexual, ou sentir atração condicional, rara, ou infrequente. Além disso, pessoas assexuais também podem se sentir excitadas diante de estímulos sexuais.
 
