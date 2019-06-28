@@ -30,6 +30,6 @@ As **cores da bandeira assexual** possuem os seguintes significados:
 **Branco:** Simpatizantes não-assexuais
 **Roxo:** Comunidade
 
-![bandeira assexual. faixas horizontais de mesma largura nas seguintes cores: preto, cinza, branco e roxo.]({{site.baseurl}}/_posts/bandeiraace.png)
+![bandeira assexual. faixas horizontais de mesma largura nas seguintes cores: preto, cinza, branco e roxo.](https://i.ibb.co/zfh24wb/bandeiraace.png)
 
 É importante frisar: uma atitude ou comportamento não faz uma pessoa “virar hétero/gay/assexual”, pois orientação é uma identidade que existe separada do comportamento. As vezes é possível encontrar postagens na internet similares a  “nossa, não faço sexo há seis meses, estou muito assexual”. Não é assim que funciona. Até porque **pessoas assexuais podem fazer sexo e continuarão assexuais**, pois continuarão preenchendo o requisito da assexualidade, que é não sentir atração sexual, ou sentir atração condicional, rara, ou infrequente. Além disso, pessoas assexuais também podem se sentir excitadas diante de estímulos sexuais.
