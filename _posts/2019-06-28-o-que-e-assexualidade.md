@@ -17,15 +17,15 @@ Ser assexual **não é** não sentir nenhuma atração. Existem > vários tipos 
 
 Há um grande perigo na generalização do que pessoas assexuais fazem ou não fazem. **Orientação NÃO É comportamento**, é identidade, é inerente à pessoa independente do que ela faz ou não faz, independente de com quem ela se relaciona. 
 
-É importante frisar: uma atitude ou comportamento não faz uma pessoa “virar hétero/gay/assexual”, pois orientação é uma identidade que existe separada do comportamento. As vezes é possível encontrar postagens na internet similares a  “nossa, não faço sexo há seis meses, estou muito assexual”. Não é assim que funciona. Até porque pessoas assexuais podem fazer sexo e continuarão assexuais, pois continuarão preenchendo o requisito da assexualidade, que é não sentir atração sexual, ou sentir atração condicional, rara, ou infrequente. Além disso, pessoas assexuais também podem se sentir excitadas diante de estímulos sexuais.
-
 Muitas pessoas assexuais tem libido, e muitas se masturbam. A diferença é que a libido de uma pessoa assexual estrita, por exemplo, não está associada com a atração sexual. Ter desejo sexual não significa necessariamente que esse desejo é direcionado a um outro. Significa que, fisiologicamente, seu corpo está querendo satisfazer uma vontade, e para pessoas assexuais estritas, essa vontade não está instintivamente ligada à nenhuma outra pessoa ou gênero. 
 
-As cores da bandeira assexual possuem os seguintes significados:
+As **cores da bandeira assexual** possuem os seguintes significados:
 
-Preto: Assexualidade
-Cinza: Espectro assexual
-Branco: Simpatizantes não-assexuais
-Roxo: Comunidade
+**Preto:** Assexualidade
+**Cinza:** Espectro assexual
+**Branco:** Simpatizantes não-assexuais
+**Roxo:** Comunidade
 
+![bandeira assexual. faixas horizontais de mesma largura nas seguintes cores: preto, cinza, branco e roxo.]({{site.baseurl}}/_posts/bandeiraace.png)
 
+É importante frisar: uma atitude ou comportamento não faz uma pessoa “virar hétero/gay/assexual”, pois orientação é uma identidade que existe separada do comportamento. As vezes é possível encontrar postagens na internet similares a  “nossa, não faço sexo há seis meses, estou muito assexual”. Não é assim que funciona. Até porque **pessoas assexuais podem fazer sexo e continuarão assexuais**, pois continuarão preenchendo o requisito da assexualidade, que é não sentir atração sexual, ou sentir atração condicional, rara, ou infrequente. Além disso, pessoas assexuais também podem se sentir excitadas diante de estímulos sexuais.
