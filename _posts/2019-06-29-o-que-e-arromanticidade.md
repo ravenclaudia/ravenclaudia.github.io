@@ -18,3 +18,13 @@ Pessoas fora do espectro arromântico são conhecidas como **allorromânticos/al
 Ser arromântico **não é** não sentir nenhuma atração. Existem vários tipos de atração que pessoas arromânticas, assim como pessoas não-arromânticas, podem ou não sentir. Pessoas arromânticas podem sentir, por exemplo, atração sexual, e dessa forma se identificarem como homossexuais, bissexuais, panssexuais, etc. Há também pessoas assexuais, que não sentem atração sexual.
 
 Há um grande perigo na generalização do que pessoas arromânticas fazem ou não fazem. **Orientação NÃO É comportamento**, é identidade, é inerente à pessoa, independente do que ela faz ou não faz, independente de com quem ela se relaciona. Algumas pessoas arromânticas namoram, outras criam parcerias com comprometimento sem envolver romance, e há também quem prefira não fazer parte de relacionamentos desse tipo.
+
+As cores da bandeira arromântica possuem os seguintes significados:
+
+**Verde:** Representa pessoas arromânticas;  é oposto ao vermelho, cor associada ao romance.
+**Verde claro:** Representa o espectro arromântico.
+**Branco:** Representa relações platônicas (nesse contexto, platônico têm o significado de amizade) e sua importância.
+**Cinza e preto:** Representam o espectro de sexualidades dentro da comunidade arromântica. 
+
+![bandeira arromantica composta de faixas horizontais de mesma largura com as seguintes cores: verde, verde claro, branco, cinza e preto ]({{site.baseurl}}/https://i.ibb.co/J7hGGkD/aroflag.jpg)
+
