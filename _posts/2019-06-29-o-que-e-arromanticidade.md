@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: O que é Arromanticidade?
 tags: aro arromantico arromanticidade arromanticismo romance romantico
 ---
@@ -18,5 +18,3 @@ Pessoas fora do espectro arromântico são conhecidas como **allorromânticos/al
 Ser arromântico **não é** não sentir nenhuma atração. Existem vários tipos de atração que pessoas arromânticas, assim como pessoas não-arromânticas, podem ou não sentir. Pessoas arromânticas podem sentir, por exemplo, atração sexual, e dessa forma se identificarem como homossexuais, bissexuais, panssexuais, etc. Há também pessoas assexuais, que não sentem atração sexual.
 
 Há um grande perigo na generalização do que pessoas arromânticas fazem ou não fazem. **Orientação NÃO É comportamento**, é identidade, é inerente à pessoa, independente do que ela faz ou não faz, independente de com quem ela se relaciona. Algumas pessoas arromânticas namoram, outras criam parcerias com comprometimento sem envolver romance, e há também quem prefira não fazer parte de relacionamentos desse tipo.
-
-
