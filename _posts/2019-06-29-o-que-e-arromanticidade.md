@@ -26,5 +26,4 @@ As cores da bandeira arromântica possuem os seguintes significados:
 **Branco:** Representa relações platônicas (nesse contexto, platônico têm o significado de amizade) e sua importância.
 **Cinza e preto:** Representam o espectro de sexualidades dentro da comunidade arromântica. 
 
-![bandeira arromantica composta de faixas horizontais de mesma largura com as seguintes cores: verde, verde claro, branco, cinza e preto ]({{site.baseurl}}/https://i.ibb.co/J7hGGkD/aroflag.jpg)
-
+![bandeira arromantica composta de faixas horizontais de mesma largura com as seguintes cores: verde, verde claro, branco, cinza e preto ](https://i.ibb.co/J7hGGkD/aroflag.jpg)
