@@ -295,9 +295,4 @@ defaults:
       share: true
       related: true
      
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+
