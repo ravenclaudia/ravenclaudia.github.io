@@ -11,7 +11,7 @@ O **espectro arromântico** se refere a pessoas que não sentem atração român
 
 **Demirromânticos:** sentem atração romântica **após a formação de um vínculo emocional**. Não é “só vou namorar quem eu gosto”. É: a atração romântica só passa a existir DEPOIS que um vínculo emocional é estabelecido. 
 
-**Arromânticos cinza:** A área cinza contempla as pessoas que não são estritamente arromânticas, mas também não são alorromânticas. Quem está na área cinza também pode se considerar arromântico e também pode sofrer arofobia (o preconceito contra pessoas arromânticas). São pessoas que sentem atração romântica **sob condições muito específicas**, ou que **raramente**a sentem”.  (Adaptado da definição de assexualidade cinza do blog sobreocinza.wordpress.com)
+**Arromânticos cinza:** A área cinza contempla as pessoas que não são estritamente arromânticas, mas também não são alorromânticas. Quem está na área cinza também pode se considerar arromântico e também pode sofrer arofobia (o preconceito contra pessoas arromânticas). São pessoas que sentem atração romântica **sob condições muito específicas**, ou que **raramente** a sentem.  (Adaptado da definição de assexualidade cinza do blog sobreocinza.wordpress.com)
 
 Pessoas fora do espectro arromântico são conhecidas como **allorromânticos/alorromânticos** - allo vem do grego e significa “outro”, portanto, ser allorromântico significa sentir atração sexual direcionada a outras pessoas ou gêneros.
 
