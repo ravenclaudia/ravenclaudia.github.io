@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: O que é o Modelo de Divisão de Atrações?
 ---
 O **modelo de divisão de atrações** (MDA) é uma forma de expandir o conceito de atração através da divisão em categorias. Existem **vários tipos** de atração que as pessoas podem sentir. É mais comumente utilizado para dividir atração romântica e atração sexual, mas também pode ser usado para dividir a atração em mais categorias, como atração sensorial, emocional, e estética. 
 
