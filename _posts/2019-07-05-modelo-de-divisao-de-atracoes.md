@@ -18,6 +18,6 @@ Aqui estão alguns dos tipos possíveis de atração:
 
 **Atração romântica:** atração baseada no desejo de fazer atividades definidas como “românticas” com alguém. Esse desejo é uma reação a uma pessoa, e pode ocorrer imediatamente ou não (no caso de pessoas demirromânticas, por exemplo, só ocorre após a formação de um vínculo emocional). É uma atração difícil de definir, pois seus fatores podem variar de pessoa para pessoa, e também porque romance é em parte uma construção social, e seus valores podem variar dependendo da época e local. Algumas de suas características são as mesmas da atração emocional, mas a atração romântica é diferente pois existe a vontade, ou o instinto, de fazer parte de um relacionamento romântico com alguém. 
 
-Nem todo mundo sente suas atrações de forma alinhada, ou seja, nem todo mundo que é assexual é arromântico, nem todo mundo que é bissexual é birromântico. Uma pessoa pode ser assexual, panromântica e homosensorial, por exemplo. Mas não é obrigatório se identificar dessa forma. O modelo de divisão de atrações pode ser usado apenas como ferramenta de **autoconhecimento**. 
+**Nem todo mundo sente suas atrações de forma alinhada**, ou seja, nem todo mundo que é assexual é arromântico, nem todo mundo que é bissexual é birromântico. Uma pessoa pode ser assexual, panromântica e homosensorial, por exemplo. Mas não é obrigatório se identificar dessa forma. O modelo de divisão de atrações pode ser usado apenas como ferramenta de **autoconhecimento**. 
 
 
